@@ -1,0 +1,6 @@
+USER:Subramaniyam Shankar
+EMAIL:subramaniyam@ucsb.edu
+PUBKEY:https://raw.githubusercontent.com/foofooman/CS279-hw1/master/phart/final.asc
+SSHKEY:https://raw.githubusercontent.com/foofooman/CS279-hw1/master/phart/id_rsa.pub
+HANDLE:l337p4ck
+PERM:9880527
